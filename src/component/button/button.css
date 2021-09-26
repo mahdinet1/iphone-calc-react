@@ -1,0 +1,24 @@
+button{
+    border-radius: 50%;
+    width: 51px;
+    height: 48px;
+    border: none;
+    font-size: 1.2rem;
+}
+button:active{
+    box-shadow: 1px 1px 1px 1px rgba(150, 148, 148, 0.6);
+}
+.grey{
+    background-color: #c7c7c7 !important;
+    color: #212121;
+    
+}
+.orange{
+    background-color: #FE9E09;
+    color: white;
+    font-size: 1.6rem !important;
+}
+.darker{
+    background-color: #323333 !important;
+    color: white;
+}
